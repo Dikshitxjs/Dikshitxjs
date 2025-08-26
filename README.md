@@ -27,10 +27,13 @@ Currently seeking **Internship & Freelance opportunities** to apply my skills an
 
 ## 📂 Highlighted Projects  
 
-| Project | Description | Tech Used | Link |
-|---------|------------|-----------|------|
-| 🎭 **Parba Nepal** | Cultural project showcasing Nepalese festivals & traditions | HTML, CSS, JS | [GitHub](https://github.com/Dikshitxjs/Parba-Nepal) |
+| Project | Description | Tech Used | Live Demo |
+|---------|-------------|-----------|-----------|
+| 🎭 **Parba Nepal** | A cultural website showcasing Nepalese festivals & traditions | HTML, CSS, JS | [Live Demo](https://parba-nepal.vercel.app/) |
+| 💱 **Currency Converter** | Real-time currency converter app using API | HTML, CSS, JS (API Fetch) | [Live Demo](https://currency-converterxx.vercel.app/) |
+| 🏦 **Banking Software UI** | A simple front-end banking management software | HTML, CSS, JS | [Live Demo](https://banking-software.vercel.app/) |
 | 🎮 **Tic Tac Toe Game** | Classic game built as a front-end practice project | HTML, CSS, Vanilla JS | [Live Demo](https://dikshitxjs.github.io/tic-Tac-toe/) |
+| 📋 **To-Do List App** | Minimal task manager for productivity | HTML, CSS, JS | [Live Demo](https://dikshitxjs.github.io/To-Do-List/) |
 | 🚧 **More React & MERN apps coming soon…** | N/A | React, Node.js, MongoDB | N/A |
 
 ---
@@ -102,6 +105,8 @@ Currently seeking **Internship & Freelance opportunities** to apply my skills an
 ## ⚡ GitHub Highlights  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dikshitxjs&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshitxjs&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Dikshitxjs&color=blueviolet&style=flat-square" alt="Profile Views" />  
+  <img src="https://streak-stats.demolab.com?user=Dikshitxjs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
