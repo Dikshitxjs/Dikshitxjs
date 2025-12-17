@@ -1,25 +1,25 @@
 <!-- Modern Professional GitHub README 2025 -->
 
 <h1 align="center">👋 Hi, I'm Dikshit Phuyal</h1>
-<h3 align="center">Front-End Developer • MERN Stack Learner • BSc IT (Hons) Student</h3>
+<h3 align="center">Full-Stack Developer • MERN Stack • Python & Flask • BSc IT (Hons)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=3000&color=00D9F7&center=true&vCenter=true&width=600&lines=Building+Modern+%26+Scalable+User+Interfaces+💻;Learning+and+Growing+with+the+MERN+Stack+🌐;Open+to+Internships+%26+Freelance+Opportunities+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=3000&color=00D9F7&center=true&vCenter=true&width=650&lines=Building+Scalable+Full-Stack+Web+Applications+💻;MERN+Stack+%7C+Python+%26+Flask+🚀;Open+to+Internships+%26+Freelance+Opportunities+🌐" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **BSc IT (Hons) undergraduate student from Nepal**, focused on **front-end development** with a growing specialization in the **MERN stack**.
+I am a **BSc IT (Hons) undergraduate student from Nepal** and a **Full-Stack Web Developer** with hands-on experience in both **frontend and backend development**.
 
-I specialize in building:
+I focus on building:
 
-* ✅ Clean, responsive, and accessible user interfaces
-* ✅ Modern React & Next.js applications
-* ✅ Real-world projects using APIs and full-stack workflows
+* ✅ Scalable and maintainable full-stack web applications
+* ✅ Responsive, accessible, and performance-optimized user interfaces
+* ✅ Secure backend systems with RESTful APIs
 
-I am actively seeking **Internship and Freelance opportunities** where I can contribute, learn from real production environments, and grow as a professional developer.
+I enjoy working across the entire development lifecycle — from UI design to backend logic and database integration. I am actively seeking **Internship and Freelance opportunities** to grow in real-world production environments.
 
 ---
 
@@ -33,15 +33,15 @@ I am actively seeking **Internship and Freelance opportunities** where I can con
 
 ## 📂 Featured Projects
 
-| Project                                   | Description                                                              | Tech Used                     | Live Demo                                                                            |
-| ----------------------------------------- | ------------------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------------------------------ |
-| 🎭 **Parba Nepal**                        | Cultural website showcasing Nepalese festivals & traditions              | HTML, CSS, JS                 | <a href="https://parba-nepal.vercel.app/" target="_blank">Live Demo</a>              |
-| 💱 **Currency Converter**                 | Real-time currency conversion using external API                         | HTML, CSS, JS (API)           | <a href="https://currency-converterxx.vercel.app/" target="_blank">Live Demo</a>     |
-| 🏦 **Banking Software UI**                | Front-end UI for a basic banking management system                       | HTML, CSS, JS                 | <a href="https://banking-software.vercel.app/" target="_blank">Live Demo</a>         |
-| 🎮 **Tic Tac Toe Game**                   | Classic game implementation for logic & UI practice                      | HTML, CSS, Vanilla JS         | <a href="https://dikshitxjs.github.io/tic-Tac-toe/" target="_blank">Live Demo</a>    |
-| 📝 **Complaint Box System (In Progress)** | A MERN stack complaint management system with authentication & dashboard | React, Node, Express, MongoDB | <a href="https://mern-project-two-weld.vercel.app/" target="_blank">Live Preview</a> |
+| Project                     | Description                                                            | Tech Stack                  | Live Demo                                                                            |
+| --------------------------- | ---------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------ |
+| 🎭 **Parba Nepal**          | Cultural platform showcasing Nepalese festivals & traditions           | HTML, CSS, JavaScript       | <a href="https://parba-nepal.vercel.app/" target="_blank">Live Demo</a>              |
+| 💱 **Currency Converter**   | Real-time currency conversion using external APIs                      | HTML, CSS, JavaScript (API) | <a href="https://currency-converterxx.vercel.app/" target="_blank">Live Demo</a>     |
+| 🏦 **Banking Software UI**  | User-friendly UI for a banking management system                       | HTML, CSS, JavaScript       | <a href="https://banking-software.vercel.app/" target="_blank">Live Demo</a>         |
+| 🎮 **Tic Tac Toe Game**     | Logic-driven classic game for UI & JavaScript practice                 | HTML, CSS, JavaScript       | <a href="https://dikshitxjs.github.io/tic-Tac-toe/" target="_blank">Live Demo</a>    |
+| 📝 **Complaint Box System** | Full-stack complaint management system with authentication & dashboard | React, Node.js, MongoDB     | <a href="https://mern-project-two-weld.vercel.app/" target="_blank">Live Preview</a> |
 
-> ⚠️ *Complaint Box is currently under active development — backend optimization and admin dashboard are in progress.*
+> ⚠️ *Complaint Box System is under active development — backend optimization and admin dashboard improvements are ongoing.*
 
 ---
 
@@ -51,21 +51,27 @@ I am actively seeking **Internship and Freelance opportunities** where I can con
 
 * HTML5, CSS3, JavaScript (ES6+)
 * React.js, **Next.js**
-* Tailwind CSS, **Material UI**, **Radix UI**
+* Tailwind CSS, Material UI, Radix UI
 
 ### Backend
 
-* Node.js, Express.js
-* **MongoDB**
+* **Python**, Flask
+* Node.js
+* RESTful API Development
 
-### Tools & Dev Environment
+### Database
 
-* Git, GitHub
+* MongoDB
+
+### Tools & Development Environment
+
+* Git & GitHub
 * VS Code
-* REST APIs, Fetch/Axios
+* Postman
+* REST APIs, Fetch, Axios
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,flask,nodejs,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -79,14 +85,14 @@ I am actively seeking **Internship and Freelance opportunities** where I can con
 
 ---
 
-## 📈 Learning Roadmap
+## 📈 Learning & Career Roadmap
 
-| Year           | Focus                                       |
-| -------------- | ------------------------------------------- |
-| **2024**       | HTML, CSS, JavaScript Fundamentals          |
-| **Early 2025** | React.js, UI Libraries, Advanced Frontend   |
-| **Mid 2025**   | MERN Stack Development                      |
-| **Late 2025**  | Open Source, Freelance, Real-World Projects |
+| Timeline       | Focus                                                 |
+| -------------- | ----------------------------------------------------- |
+| **2024**       | Web Fundamentals (HTML, CSS, JavaScript)              |
+| **Early 2025** | Advanced Frontend (React, Next.js, UI Systems)        |
+| **Mid 2025**   | Full-Stack Development (MERN, Python, Flask)          |
+| **Late 2025**  | Open Source Contributions, Freelancing, System Design |
 
 ---
 
@@ -94,31 +100,19 @@ I am actively seeking **Internship and Freelance opportunities** where I can con
 
 * Responsive Web Design – freeCodeCamp
 * JavaScript Basics – SoloLearn
-* *(More in progress…)*
+* *(Additional certifications in progress)*
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:dikshitphuyal550@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dikshit-phuyal-611117359">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01847cd3e4b03264f2">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Upwork_Logo.svg" width="80px"/>
-  </a>
-  <a href="http://phuyaldikshit.com.np">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45px"/>
-  </a>
-  <a href="https://wa.me/9779818141210">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" width="45px"/>
-  </a>
-  <a href="https://github.com/Dikshitxjs">
-    <img src="https://skillicons.dev/icons?i=github" width="45px"/>
-  </a>
+  <a href="mailto:dikshitphuyal550@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
+  <a href="https://www.linkedin.com/in/dikshit-phuyal-611117359"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
+  <a href="https://www.upwork.com/freelancers/~01847cd3e4b03264f2"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Upwork_Logo.svg" width="80px"/></a>
+  <a href="http://phuyaldikshit.com.np"><img src="https://skillicons.dev/icons?i=vercel" width="45px"/></a>
+  <a href="https://wa.me/9779818141210"><img src="https://img.icons8.com/color/48/whatsapp.png" width="45px"/></a>
+  <a href="https://github.com/Dikshitxjs"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
 </p>
 
 ---
