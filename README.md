@@ -2,7 +2,7 @@
 <p align="center">Full-Stack Web Developer</p>
 
 <p align="center">
-  Next.js · TypeScript · JavaScript · Python · Flask · Django
+  Next.js · TypeScript · JavaScript · Python · Flask · Fast API
 </p>
 
 ---
@@ -30,8 +30,8 @@ Primary focus areas:
 **Backend**
 - Python
 - Flask
-- Django
-- Node.js
+- Fast API
+- Express.js
 
 **Database**
 - PostgreSQL
@@ -41,6 +41,7 @@ Primary focus areas:
 - Git & GitHub
 - VS Code
 - Postman
+  Redis
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,flask,django,nodejs,postgres,mongodb,tailwind,git,github,vscode" />
